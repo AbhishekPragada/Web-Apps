@@ -11,4 +11,4 @@ You can also add the user name using "prompt" command which makes it more fun  ð
 This is a simple game where you need to guess a random number generated between 1 and 20
 
 
-![Guess](GuesstheNumber/Guess.gif)
+![Guess](Guess the Number/Guess.gif)
