@@ -6,3 +6,9 @@ You can also add the user name using "prompt" command which makes it more fun  ð
 
 
 ![Dice](Dice/Dice.gif)
+
+## 2. Guess the Number
+This is a simple game where you need to guess a random number generated between 1 and 20
+
+
+![Guess](Guess the Number/Guess.gif)
